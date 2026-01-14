@@ -77,7 +77,7 @@ add_shortcode('matt_ai_contact_form', function () {
                 'https://www.google.com/recaptcha/api/siteverify',
                 [
                     'body' => [
-                        'secret' => '6LcFiTksAAAAACbUexPkON5Cofz4xGPOHSV7MHHD',
+                        'secret' => 'YOUT KEY HERE',
                         'response' => sanitize_text_field($_POST['g-recaptcha-response'])
                     ]
                 ]
@@ -184,7 +184,7 @@ add_shortcode('matt_ai_contact_form', function () {
             <option>Phone Call</option>
         </select>
 
-        <div class="g-recaptcha" data-sitekey="6LcFiTksAAAAAEbXZTn_tAecuOyCGhcrI6Jhv6Zy"></div>
+        <div class="g-recaptcha" data-sitekey="YOUR KEY HERE"></div>
 
         <label class="checkbox">
             <input type="checkbox" required>
