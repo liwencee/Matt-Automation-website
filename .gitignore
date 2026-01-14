@@ -1,0 +1,82 @@
+# ===============================
+# OS & Editor Files
+# ===============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===============================
+# Logs & Debug Files
+# ===============================
+*.log
+logs/
+error_log
+php_errors.log
+
+# ===============================
+# Environment & Secrets
+# ===============================
+.env
+.env.*
+config.php
+database.php
+db.php
+*.secret
+*.key
+*.pem
+
+# ===============================
+# PHP Dependencies (Composer)
+# ===============================
+vendor/
+composer.lock
+
+# ===============================
+# Node / Frontend Tools (Optional)
+# ===============================
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+
+# ===============================
+# Build & Cache Files
+# ===============================
+dist/
+build/
+.cache/
+.tmp/
+
+# ===============================
+# Minified & Generated Files (Optional)
+# Uncomment if you auto-generate these
+# ===============================
+# *.min.css
+# *.min.js
+
+# ===============================
+# Uploads & User Content
+# ===============================
+uploads/
+media/
+storage/
+
+# ===============================
+# Backup Files
+# ===============================
+*.bak
+*.backup
+*.old
+*.zip
+*.tar.gz
+
+# ===============================
+# Hosting / cPanel Files
+# ===============================
+.htaccess.bak
+.htpasswd

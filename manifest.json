@@ -1,0 +1,1390 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "Aivio",
+    "page_builder": "elementor",
+    "kit_version": "1.0.2",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/elementorpress.com\/aivio",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Get in touch form",
+            "screenshot": "screenshots\/get-in-touch-form.jpg",
+            "source": "templates\/get-in-touch-form.json",
+            "preview_url": "https:\/\/elementorpress.com\/aivio\/template-kit\/get-in-touch-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Newsletter form",
+            "screenshot": "screenshots\/newsletter-form.jpg",
+            "source": "templates\/newsletter-form.json",
+            "preview_url": "https:\/\/elementorpress.com\/aivio\/template-kit\/newsletter-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header 01",
+            "screenshot": "screenshots\/header-01.jpg",
+            "source": "templates\/header-01.json",
+            "preview_url": "https:\/\/elementorpress.com\/aivio\/template-kit\/header-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header 02",
+            "screenshot": "screenshots\/header-02.jpg",
+            "source": "templates\/header-02.json",
+            "preview_url": "https:\/\/elementorpress.com\/aivio\/template-kit\/header-02\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/elementorpress.com\/aivio\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/elementorpress.com\/aivio\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/elementorpress.com\/aivio\/template-kit\/about\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/elementorpress.com\/aivio\/template-kit\/services\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/elementorpress.com\/aivio\/template-kit\/testimonials\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single project",
+            "screenshot": "screenshots\/single-project.jpg",
+            "source": "templates\/single-project.json",
+            "preview_url": "https:\/\/elementorpress.com\/aivio\/template-kit\/single-project\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/elementorpress.com\/aivio\/template-kit\/pricing\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Project",
+            "screenshot": "screenshots\/project.jpg",
+            "source": "templates\/project.json",
+            "preview_url": "https:\/\/elementorpress.com\/aivio\/template-kit\/project\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/elementorpress.com\/aivio\/template-kit\/our-team\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Faq",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/elementorpress.com\/aivio\/template-kit\/faq\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-faq",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/elementorpress.com\/aivio\/template-kit\/contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.png",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/elementorpress.com\/aivio\/template-kit\/coming-soon\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.png",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/elementorpress.com\/aivio\/template-kit\/404\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.30.0",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.13",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "4.0.0",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Header-logo.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/Header-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header-01.json",
+                    "name": "Header 01"
+                },
+                {
+                    "source": "templates\/header-02.json",
+                    "name": "Header 02"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 2935,
+            "dimensions": [
+                138,
+                40
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/www.freepik.com\/premium-vector\/human-technology-human-digital-logo-design-robot-tech-logo-design_240006230.htm#fromView=search&page=1&position=12&uuid=27edd014-5638-4954-80d9-c3669d2c10f0&query=Artificial+intelligence+logo"
+        },
+        {
+            "filename": "bg-home-img.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/bg-home-img.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 63683,
+            "dimensions": [
+                1920,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/www.freepik.com\/premium-vector\/vector-glowing-wave-smoke_30396639.htm#from_element=detail_alsolike"
+        },
+        {
+            "filename": "bg-img-2.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/bg-img-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 15357,
+            "dimensions": [
+                112,
+                112
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/www.freepik.com\/premium-photo\/robotic-hand-holding-glowing-sphere-electric-blue_243467602.htm#fromView=search&page=1&position=1&uuid=447d1a43-f3e0-482b-ac68-6edc023e2bd7&query=Ai+robot"
+        },
+        {
+            "filename": "logo-10.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/logo-10.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single project"
+                }
+            ],
+            "filesize": 2966,
+            "dimensions": [
+                134,
+                40
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-11.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/logo-11.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single project"
+                }
+            ],
+            "filesize": 3459,
+            "dimensions": [
+                167,
+                40
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-12.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/logo-12.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single project"
+                }
+            ],
+            "filesize": 3468,
+            "dimensions": [
+                186,
+                40
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-13.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/logo-13.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single project"
+                }
+            ],
+            "filesize": 3675,
+            "dimensions": [
+                202,
+                40
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-14.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/logo-14.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single project"
+                }
+            ],
+            "filesize": 3129,
+            "dimensions": [
+                172,
+                40
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-15.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/logo-15.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single project"
+                }
+            ],
+            "filesize": 3299,
+            "dimensions": [
+                170,
+                40
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-16.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/logo-16.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single project"
+                }
+            ],
+            "filesize": 2699,
+            "dimensions": [
+                151,
+                40
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "person-img.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/person-img.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 12822,
+            "dimensions": [
+                104,
+                52
+            ],
+            "image_source": "envato_elements",
+            "image_urls": " https:\/\/elements.envato.com\/fr\/composite-set-of-young-people-expressing-positive--Y7TE27B"
+        },
+        {
+            "filename": "about-img.jpg1_.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/about-img.jpg1_.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 83916,
+            "dimensions": [
+                278,
+                290
+            ],
+            "image_source": "envato_elements",
+            "image_urls": " https:\/\/www.freepik.com\/premium-photo\/3d-illustration-futuristic-part-spacecraft-turbine_18289859.htm#fromView=search&page=1&position=25&uuid=79b359da-280d-46a2-91ba-bb298381d630&query=Technology+3d+images"
+        },
+        {
+            "filename": "About-img.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/About-img.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 74339,
+            "dimensions": [
+                459,
+                639
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/www.freepik.com\/premium-photo\/future-artificial-intelligence-robot_8232312.htm#fromView=search&page=2&position=9&uuid=2bb9a52c-563c-4300-9468-53a3eb45dfe7&query=Artificial+intelligence"
+        },
+        {
+            "filename": "sercices-icon-1.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/sercices-icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 3626,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/fr\/artificial-intelligence-thin-line-icons-pack-C6C7D2C"
+        },
+        {
+            "filename": "sercices-icon-2.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/sercices-icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2420,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/fr\/artificial-intelligence-thin-line-icons-pack-C6C7D2C"
+        },
+        {
+            "filename": "sercices-icon-3.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/sercices-icon-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1918,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/fr\/artificial-intelligence-thin-line-icons-pack-C6C7D2C"
+        },
+        {
+            "filename": "sercices-icon-4.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/sercices-icon-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 3078,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/fr\/artificial-intelligence-thin-line-icons-pack-C6C7D2C"
+        },
+        {
+            "filename": "sercices-icon-5.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/sercices-icon-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2994,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/fr\/artificial-intelligence-thin-line-icons-pack-C6C7D2C"
+        },
+        {
+            "filename": "sercices-icon-6.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/sercices-icon-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2320,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/fr\/artificial-intelligence-thin-line-icons-pack-C6C7D2C"
+        },
+        {
+            "filename": "Shape-2.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/Shape-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single project"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 103178,
+            "dimensions": [
+                595,
+                1372
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "shape-03.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/shape-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 91433,
+            "dimensions": [
+                563,
+                1364
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Work-With-Us-bg-img.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/Work-With-Us-bg-img.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 216570,
+            "dimensions": [
+                1920,
+                686
+            ],
+            "image_source": "envato_elements",
+            "image_urls": " https:\/\/www.freepik.com\/premium-photo\/neon-cosmic-glare-abstract-3d-render-waves-with-pillars-extraterrestrial-light-futuristic-bursts-energy-with-purple-streaks-blue-shimmer-luminous-space-dynamic-stellar-matter_22431847.htm#from_element=detail_alsolike"
+        },
+        {
+            "filename": "project-img-8-min.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/project-img-8-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single project"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 67321,
+            "dimensions": [
+                687,
+                583
+            ],
+            "image_source": "envato_elements",
+            "image_urls": " https:\/\/www.freepik.com\/premium-photo\/purple-analysis-digital-analytics-data-visualization-financial-schedule-monitor-perspective_37968923.htm#fromView=search&page=1&position=6&uuid=7e3a0058-1956-4fd8-b0a2-0b518272b812&query=analysis"
+        },
+        {
+            "filename": "Project-img-5-min.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/Project-img-5-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single project"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 86318,
+            "dimensions": [
+                687,
+                583
+            ],
+            "image_source": "envato_elements",
+            "image_urls": " https:\/\/www.freepik.com\/premium-photo\/motherboard-seamless-chipset-technology-illustration-wallpaper-background-design_19908414.htm#fromView=search&page=30&position=2&uuid=9d1b431e-e0cd-42fb-95cf-50cd80a15f09&query=Ai+project"
+        },
+        {
+            "filename": "project-img-6-min.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/project-img-6-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single project"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 77174,
+            "dimensions": [
+                687,
+                583
+            ],
+            "image_source": "envato_elements",
+            "image_urls": " https:\/\/www.freepik.com\/premium-photo\/artificial-intelligence-cyber-human-purple-tones-background_262363226.htm#fromView=search&page=6&position=6&uuid=9d1b431e-e0cd-42fb-95cf-50cd80a15f09&query=Ai"
+        },
+        {
+            "filename": "project-img-7-min.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/project-img-7-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single project"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 75082,
+            "dimensions": [
+                687,
+                583
+            ],
+            "image_source": "envato_elements",
+            "image_urls": " https:\/\/www.freepik.com\/premium-photo\/best-backgrounds_404575843.htm#fromView=search&page=28&position=22&uuid=9d1b431e-e0cd-42fb-95cf-50cd80a15f09&query=Ai+project"
+        },
+        {
+            "filename": "Testimonials-bg.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/Testimonials-bg.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single project"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 17975,
+            "dimensions": [
+                440,
+                441
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Testimonials-img-2.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/Testimonials-img-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single project"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 15009,
+            "dimensions": [
+                116,
+                120
+            ],
+            "image_source": "envato_elements",
+            "image_urls": " https:\/\/elements.envato.com\/fr\/composite-set-of-young-people-expressing-positive--Y7TE27B"
+        },
+        {
+            "filename": "circle-img-3.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/circle-img-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single project"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 1659,
+            "dimensions": [
+                49,
+                50
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Testimonials-img-3.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/Testimonials-img-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single project"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 13831,
+            "dimensions": [
+                126,
+                125
+            ],
+            "image_source": "envato_elements",
+            "image_urls": " https:\/\/elements.envato.com\/fr\/composite-set-of-young-people-expressing-positive--Y7TE27B"
+        },
+        {
+            "filename": "circle-img-1.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/circle-img-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single project"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 1678,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Testimonials-img-1.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/Testimonials-img-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single project"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 12503,
+            "dimensions": [
+                121,
+                118
+            ],
+            "image_source": "envato_elements",
+            "image_urls": " https:\/\/elements.envato.com\/fr\/composite-set-of-young-people-expressing-positive--Y7TE27B"
+        },
+        {
+            "filename": "circle-img-2.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/circle-img-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single project"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 1668,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Lets-Builds-img.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/Lets-Builds-img.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 129250,
+            "dimensions": [
+                476,
+                744
+            ],
+            "image_source": "envato_elements",
+            "image_urls": " https:\/\/www.freepik.com\/premium-photo\/3d-rendering-ai-robot-think-compute-with-digital-graphic-display_94575315.htm#fromView=search&page=7&position=12&uuid=447d1a43-f3e0-482b-ac68-6edc023e2bd7&query=Ai+robot"
+        },
+        {
+            "filename": "About-bg-img.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/About-bg-img.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single project"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 181317,
+            "dimensions": [
+                1920,
+                716
+            ],
+            "image_source": "envato_elements",
+            "image_urls": " https:\/\/www.freepik.com\/premium-photo\/neon-cosmic-glare-abstract-3d-render-waves-with-pillars-extraterrestrial-light-futuristic-bursts-energy-with-purple-streaks-blue-shimmer-luminous-space-dynamic-stellar-matter_22431847.htm#from_element=detail_alsolike"
+        },
+        {
+            "filename": "About-us-section-img.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/About-us-section-img.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 244919,
+            "dimensions": [
+                503,
+                639
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "  https:\/\/www.freepik.com\/premium-photo\/digital-data-mining-machine-learning-technology-design-computer-brain_13171279.htm#from_element=detail_alsolike"
+        },
+        {
+            "filename": "our-Mission-bg-img.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/our-Mission-bg-img.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 84088,
+            "dimensions": [
+                682,
+                348
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/www.freepik.com\/premium-vector\/smoky-glowing-waves-dark-vector-abstract-background_71929834.htm#from_element=detail_alsolike"
+        },
+        {
+            "filename": "our-vision-bg-img.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/our-vision-bg-img.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 75665,
+            "dimensions": [
+                682,
+                348
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/www.freepik.com\/premium-vector\/smoky-glowing-waves-dark-vector-abstract-background_71929834.htm#from_element=detail_alsolike"
+        },
+        {
+            "filename": "Our-team-img-1.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/Our-team-img-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 50512,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": " https:\/\/elements.envato.com\/fr\/composite-set-of-young-people-expressing-positive--Y7TE27B"
+        },
+        {
+            "filename": "Our-team-img-2.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/Our-team-img-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 44188,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": " https:\/\/elements.envato.com\/fr\/composite-set-of-young-people-expressing-positive--Y7TE27B"
+        },
+        {
+            "filename": "Our-Team-img-3.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/Our-Team-img-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 51394,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": " https:\/\/elements.envato.com\/fr\/composite-set-of-young-people-expressing-positive--Y7TE27B"
+        },
+        {
+            "filename": "our-team-img-4.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/our-team-img-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 44703,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": " https:\/\/elements.envato.com\/fr\/composite-set-of-young-people-expressing-positive--Y7TE27B"
+        },
+        {
+            "filename": "Location-icon.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/Location-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 2991,
+            "dimensions": [
+                61,
+                60
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/fr\/simple-set-basic-line-icons-KHU2AA"
+        },
+        {
+            "filename": "Eamil-icon.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/Eamil-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 2606,
+            "dimensions": [
+                61,
+                60
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/fr\/simple-set-basic-line-icons-KHU2AA"
+        },
+        {
+            "filename": "phone-icon.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/aivio\/wp-content\/uploads\/2025\/06\/phone-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 3024,
+            "dimensions": [
+                57,
+                60
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/fr\/simple-set-basic-line-icons-KHU2AA"
+        }
+    ]
+}
